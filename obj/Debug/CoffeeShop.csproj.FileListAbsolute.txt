@@ -1,0 +1,8 @@
+E:\COde\C#\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\COde\C#\CoffeeShop\obj\Debug\CoffeeShop.csproj.SuggestedBindingRedirects.cache
+E:\COde\C#\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\COde\C#\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\COde\C#\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\COde\C#\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\COde\C#\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\COde\C#\CoffeeShop\obj\Debug\CoffeeShop.pdb
